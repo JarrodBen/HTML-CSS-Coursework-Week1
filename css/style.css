@@ -67,6 +67,11 @@
    max-height: 350px;
  }
  
+ h1:first-child{
+  position: relative;
+  top: -337px;
+}
+
  .header1{
    position: relative;
    top: -337px;
